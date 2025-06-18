@@ -1,6 +1,6 @@
-# Proyecto OSINT Instagram
+# Proyecto OSINT con imágenes
 
-Este proyecto analiza perfiles de Instagram mediante imágenes descargadas, aplicando técnicas de inteligencia artificial con Gemini de Google AI Studio. Extrae información relevante como ubicaciones, relaciones personales, marcas, estilo de vida y mucho más.
+Este proyecto analiza imágenes descargadas, aplicando técnicas de inteligencia artificial con Gemini de Google AI Studio. Extrae información relevante como ubicaciones, relaciones personales, marcas, estilo de vida y mucho más.
 
 ## Estructura
 - `analisis/`: lógica de análisis con Gemini.
